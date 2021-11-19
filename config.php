@@ -1,9 +1,9 @@
 <?php
 ini_set( "display_errors", true );
 date_default_timezone_set( "Asia/Jakarta" );
-define( "DB_DSN", "mysql:host=localhost;dbname=tmbincor_salblog" );
-define( "DB_USERNAME", "tmbincor" );
-define( "DB_PASSWORD", "P33p33p00p00!" );
+define( "DB_DSN", "mysql:host=localhost;dbname=dbname" );
+define( "DB_USERNAME", "username" );
+define( "DB_PASSWORD", "password" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
 define( "HOMEPAGE_NUM_ARTICLES", 30 );
